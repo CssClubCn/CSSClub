@@ -14,6 +14,7 @@ class plugin_takashiro_issprofile {
 		'电子科技大学' => 'D',
 		'西南财经大学' => 'X',
 		'西南交通大学' => 'N',
+        '西华大学' => 'H'
 	);
 
 	function cacheuserstats(){
